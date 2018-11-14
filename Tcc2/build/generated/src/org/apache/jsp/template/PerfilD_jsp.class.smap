@@ -1,0 +1,27 @@
+SMAP
+PerfilD_jsp.java
+JSP
+*S JSP
+*F
++ 0 CabecalhoPerfil1.jsp
+template/CabecalhoPerfil1.jsp
++ 1 PerfilD.jsp
+template/PerfilD.jsp
+*L
+1,26:49
+27:75,3
+28,2:78
+30:80,3
+31,6:83
+1#1,9:89
+10,3:98,3
+13,16:107
+29:123,3
+30,8:126
+38:134,3
+39,3:137
+42:140,3
+43,3:143
+46:146,3
+47,304:149
+*E

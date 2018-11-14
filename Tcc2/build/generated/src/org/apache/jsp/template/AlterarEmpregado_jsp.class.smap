@@ -1,0 +1,15 @@
+SMAP
+AlterarEmpregado_jsp.java
+JSP
+*S JSP
+*F
++ 0 AlterarEmpregado.jsp
+template/AlterarEmpregado.jsp
+*L
+1,62:54
+62:235,11
+63:246
+64:247,5
+65:252
+65,100:118
+*E
