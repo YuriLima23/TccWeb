@@ -9,7 +9,7 @@ import Modelo.Album;
 
 /**
  *
- * @author eliane
+ * @author yuri
  */
 public class AlbumDao extends GenericDAO<Album, Integer>{    
     public AlbumDao(){
