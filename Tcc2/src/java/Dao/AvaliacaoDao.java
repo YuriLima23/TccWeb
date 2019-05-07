@@ -10,7 +10,7 @@ import Modelo.Avaliacao;
 
 /**
  *
- * @author aluno
+ * @author yuri
  */
 public class AvaliacaoDao extends GenericDAO<Avaliacao, Integer> {
     
