@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  *
- * @author eliane
+ * @author Yuri Ramos Lima
  */
 @WebServlet(name = "CategoriaCtl", urlPatterns = {"/admin/categoria/CategoriaCtl"})
 public class CategoriaCtl extends HttpServlet {
